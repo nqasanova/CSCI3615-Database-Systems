@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Department,Manager,OfficeLocation,ProjectName,Role
+101,John Doe,IT,Jane Smith,Floor 1,"Alpha, Beta","Developer, Tester"
+102,Anna Brown,HR,Mark Lee,Floor 2,Gamma,Coordinator
+103,Gary White,IT,Jane Smith,Floor 1,Alpha,Developer
+104,Emily Rose,IT,Jane Smith,Floor 1,"Beta, Delta","Tester, Documentation"
+105,Peter Gray,HR,Mark Lee,Floor 2,"Gamma, Epsilon","Analyst, Advisor"
+106,Robert Green,Finance,Ella Wong,Floor 3,Zeta,Analyst
+107,Susan Blue,Finance,Ella Wong,Floor 3,"Zeta, Theta","Analyst, Advisor"
+108,Aaron Black,HR,Mark Lee,Floor 2,Gamma,Analyst
+109,Karen Purple,IT,Jane Smith,Floor 1,Alpha,Tester
+110,Steve Yellow,Marketing,Lily Chen,Floor 4,Iota,Strategist
